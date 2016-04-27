@@ -1,4 +1,6 @@
-# INFO 474 Assignment: Building a Data Exploration Tool
+# INFO 474 Assignment: 
+##Building a Data Exploration Tool
+Website: http://students.washington.edu/seow/INFO474_DET/
 
 ## Tool Description
 This website shows the statistics on the cuases of death in New York State between 200 and 2013. In order to fully express the data, a grouped bar graph is used. Each leading causes has mortality rate for three sub-categories (Male, Female, and Total). Thus, a grouped bar graph is an ideal method to represent the data. It helps the users to easily compre each cause with nothers, and also each gender group with others. In addition, the scales on this bar graph is interactive with the filtered data. As judging position with the same scale is the primary perceptual task that the users would perform, the adjusted scale will help them to interpret the data more efficiently. For those bars that are not close to the scale, it might be hard to judge the position. However, the mouseover tooltip shows the mortality count for the specific bar.
