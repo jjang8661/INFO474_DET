@@ -1,0 +1,892 @@
+Year,Region_Code,Region,Gender_Code,Gender,Cause_Code,Cause,Deaths,Crude_Rate
+2003,0,New York State,0,Total,6,Pneumonia,5416,28.2
+2003,1,New York City,0,Total,6,Pneumonia,2670,33
+2003,2,Rest of State,0,Total,6,Pneumonia,2746,24.7
+2004,0,New York State,0,Total,6,Pneumonia,5613,29.2
+2004,1,New York City,0,Total,6,Pneumonia,2944,36.3
+2004,2,Rest of State,0,Total,6,Pneumonia,2669,24
+2005,0,New York State,0,Total,6,Pneumonia,5549,28.8
+2005,1,New York City,0,Total,6,Pneumonia,2874,35.3
+2005,2,Rest of State,0,Total,6,Pneumonia,2675,24.1
+2006,0,New York State,0,Total,6,Pneumonia,4890,25.3
+2006,1,New York City,0,Total,6,Pneumonia,2543,31
+2006,2,Rest of State,0,Total,6,Pneumonia,2347,21.2
+2007,0,New York State,0,Total,6,Pneumonia,4502,23.3
+2007,1,New York City,0,Total,6,Pneumonia,2346,28.4
+2007,2,Rest of State,0,Total,6,Pneumonia,2156,19.6
+2008,0,New York State,0,Total,6,Pneumonia,4548,23.3
+2008,1,New York City,0,Total,6,Pneumonia,2272,27.2
+2008,2,Rest of State,0,Total,6,Pneumonia,2276,20.5
+2009,0,New York State,0,Total,6,Pneumonia,4360,22.3
+2009,1,New York City,0,Total,6,Pneumonia,2189,26.1
+2009,2,Rest of State,0,Total,6,Pneumonia,2171,19.5
+2010,0,New York State,0,Total,6,Pneumonia,4569,23.6
+2010,1,New York City,0,Total,6,Pneumonia,2411,29.5
+2010,2,Rest of State,0,Total,6,Pneumonia,2158,19.3
+2011,0,New York State,0,Total,6,Pneumonia,4808,24.7
+2011,1,New York City,0,Total,6,Pneumonia,2473,30
+2011,2,Rest of State,0,Total,6,Pneumonia,2335,20.8
+2012,0,New York State,0,Total,6,Pneumonia,4331,22.1
+2012,1,New York City,0,Total,6,Pneumonia,2258,27.1
+2012,2,Rest of State,0,Total,6,Pneumonia,2073,18.5
+2013,0,New York State,0,Total,6,Pneumonia,4664,23.7
+2013,1,New York City,0,Total,6,Pneumonia,2383,28.3
+2013,2,Rest of State,0,Total,6,Pneumonia,2281,20.3
+2003,0,New York State,1,Male,6,Pneumonia,2404,25.9
+2003,1,New York City,1,Male,6,Pneumonia,1197,31.1
+2003,2,Rest of State,1,Male,6,Pneumonia,1207,22.2
+2004,0,New York State,1,Male,6,Pneumonia,2499,26.9
+2004,1,New York City,1,Male,6,Pneumonia,1323,34.3
+2004,2,Rest of State,1,Male,6,Pneumonia,1176,21.6
+2005,0,New York State,1,Male,6,Pneumonia,2472,26.5
+2005,1,New York City,1,Male,6,Pneumonia,1291,33.3
+2005,2,Rest of State,1,Male,6,Pneumonia,1181,21.7
+2006,0,New York State,1,Male,6,Pneumonia,2179,23.3
+2006,1,New York City,1,Male,6,Pneumonia,1131,28.9
+2006,2,Rest of State,1,Male,6,Pneumonia,1048,19.3
+2007,0,New York State,1,Male,6,Pneumonia,2052,21.9
+2007,1,New York City,1,Male,6,Pneumonia,1071,27.1
+2007,2,Rest of State,1,Male,6,Pneumonia,981,18.1
+2008,0,New York State,1,Male,6,Pneumonia,2087,22.1
+2008,1,New York City,1,Male,6,Pneumonia,1015,25.4
+2008,2,Rest of State,1,Male,6,Pneumonia,1072,19.6
+2009,0,New York State,1,Male,6,Pneumonia,2046,21.5
+2009,1,New York City,1,Male,6,Pneumonia,1003,25
+2009,2,Rest of State,1,Male,6,Pneumonia,1043,19
+2010,0,New York State,1,Male,6,Pneumonia,2152,22.9
+2010,1,New York City,1,Male,6,Pneumonia,1134,29.2
+2010,2,Rest of State,1,Male,6,Pneumonia,1018,18.5
+2011,0,New York State,1,Male,6,Pneumonia,2340,24.8
+2011,1,New York City,1,Male,6,Pneumonia,1185,30.2
+2011,2,Rest of State,1,Male,6,Pneumonia,1155,21
+2012,0,New York State,1,Male,6,Pneumonia,2081,21.9
+2012,1,New York City,1,Male,6,Pneumonia,1086,27.3
+2012,2,Rest of State,1,Male,6,Pneumonia,995,18
+2013,0,New York State,1,Male,6,Pneumonia,2268,23.8
+2013,1,New York City,1,Male,6,Pneumonia,1188,29.6
+2013,2,Rest of State,1,Male,6,Pneumonia,1080,19.5
+2003,0,New York State,2,Female,6,Pneumonia,3012,30.4
+2003,1,New York City,2,Female,6,Pneumonia,1473,34.7
+2003,2,Rest of State,2,Female,6,Pneumonia,1539,27.1
+2004,0,New York State,2,Female,6,Pneumonia,3114,31.4
+2004,1,New York City,2,Female,6,Pneumonia,1621,38.2
+2004,2,Rest of State,2,Female,6,Pneumonia,1493,26.3
+2005,0,New York State,2,Female,6,Pneumonia,3077,31
+2005,1,New York City,2,Female,6,Pneumonia,1583,37.1
+2005,2,Rest of State,2,Female,6,Pneumonia,1494,26.4
+2006,0,New York State,2,Female,6,Pneumonia,2711,27.2
+2006,1,New York City,2,Female,6,Pneumonia,1412,32.8
+2006,2,Rest of State,2,Female,6,Pneumonia,1299,23
+2007,0,New York State,2,Female,6,Pneumonia,2450,24.7
+2007,1,New York City,2,Female,6,Pneumonia,1275,29.5
+2007,2,Rest of State,2,Female,6,Pneumonia,1175,20.9
+2008,0,New York State,2,Female,6,Pneumonia,2461,24.5
+2008,1,New York City,2,Female,6,Pneumonia,1257,28.8
+2008,2,Rest of State,2,Female,6,Pneumonia,1204,21.3
+2009,0,New York State,2,Female,6,Pneumonia,2314,23
+2009,1,New York City,2,Female,6,Pneumonia,1186,27.1
+2009,2,Rest of State,2,Female,6,Pneumonia,1128,19.9
+2010,0,New York State,2,Female,6,Pneumonia,2417,24.2
+2010,1,New York City,2,Female,6,Pneumonia,1277,29.7
+2010,2,Rest of State,2,Female,6,Pneumonia,1140,20
+2011,0,New York State,2,Female,6,Pneumonia,2468,24.6
+2011,1,New York City,2,Female,6,Pneumonia,1288,29.8
+2011,2,Rest of State,2,Female,6,Pneumonia,1180,20.7
+2012,0,New York State,2,Female,6,Pneumonia,2250,22.3
+2012,1,New York City,2,Female,6,Pneumonia,1172,26.9
+2012,2,Rest of State,2,Female,6,Pneumonia,1078,18.9
+2013,0,New York State,2,Female,6,Pneumonia,2396,23.7
+2013,1,New York City,2,Female,6,Pneumonia,1195,27.2
+2013,2,Rest of State,2,Female,6,Pneumonia,1201,21
+2003,0,New York State,0,Total,2,Malignant Neoplasms,36060,187.9
+2003,1,New York City,0,Total,2,Malignant Neoplasms,12900,159.5
+2003,2,Rest of State,0,Total,2,Malignant Neoplasms,23160,208.6
+2004,0,New York State,0,Total,2,Malignant Neoplasms,35859,186.5
+2004,1,New York City,0,Total,2,Malignant Neoplasms,12651,156.1
+2004,2,Rest of State,0,Total,2,Malignant Neoplasms,23208,208.6
+2005,0,New York State,0,Total,2,Malignant Neoplasms,35303,183.3
+2005,1,New York City,0,Total,2,Malignant Neoplasms,12479,153.2
+2005,2,Rest of State,0,Total,2,Malignant Neoplasms,22824,205.4
+2006,0,New York State,0,Total,2,Malignant Neoplasms,35025,181.4
+2006,1,New York City,0,Total,2,Malignant Neoplasms,12281,149.5
+2006,2,Rest of State,0,Total,2,Malignant Neoplasms,22744,205.1
+2007,0,New York State,0,Total,2,Malignant Neoplasms,35183,182.3
+2007,1,New York City,0,Total,2,Malignant Neoplasms,12450,150.5
+2007,2,Rest of State,0,Total,2,Malignant Neoplasms,22733,206.2
+2008,0,New York State,0,Total,2,Malignant Neoplasms,35101,180.1
+2008,1,New York City,0,Total,2,Malignant Neoplasms,12238,146.3
+2008,2,Rest of State,0,Total,2,Malignant Neoplasms,22863,205.5
+2009,0,New York State,0,Total,2,Malignant Neoplasms,34874,178.5
+2009,1,New York City,0,Total,2,Malignant Neoplasms,12313,146.7
+2009,2,Rest of State,0,Total,2,Malignant Neoplasms,22561,202.3
+2010,0,New York State,0,Total,2,Malignant Neoplasms,35092,181.1
+2010,1,New York City,0,Total,2,Malignant Neoplasms,12408,151.8
+2010,2,Rest of State,0,Total,2,Malignant Neoplasms,22684,202.5
+2011,0,New York State,0,Total,2,Malignant Neoplasms,35032,180
+2011,1,New York City,0,Total,2,Malignant Neoplasms,12476,151.3
+2011,2,Rest of State,0,Total,2,Malignant Neoplasms,22556,201
+2012,0,New York State,0,Total,2,Malignant Neoplasms,35600,181.9
+2012,1,New York City,0,Total,2,Malignant Neoplasms,12594,151.1
+2012,2,Rest of State,0,Total,2,Malignant Neoplasms,23006,204.8
+2013,0,New York State,0,Total,2,Malignant Neoplasms,35078,178.5
+2013,1,New York City,0,Total,2,Malignant Neoplasms,12463,148.3
+2013,2,Rest of State,0,Total,2,Malignant Neoplasms,22615,201.1
+2003,0,New York State,1,Male,2,Malignant Neoplasms,17565,189.4
+2003,1,New York City,1,Male,2,Malignant Neoplasms,6152,160.1
+2003,2,Rest of State,1,Male,2,Malignant Neoplasms,11413,210.1
+2004,0,New York State,1,Male,2,Malignant Neoplasms,17643,189.6
+2004,1,New York City,1,Male,2,Malignant Neoplasms,6126,158.9
+2004,2,Rest of State,1,Male,2,Malignant Neoplasms,11517,211.4
+2005,0,New York State,1,Male,2,Malignant Neoplasms,17341,185.9
+2005,1,New York City,1,Male,2,Malignant Neoplasms,5988,154.5
+2005,2,Rest of State,1,Male,2,Malignant Neoplasms,11353,208.3
+2006,0,New York State,1,Male,2,Malignant Neoplasms,17167,183.5
+2006,1,New York City,1,Male,2,Malignant Neoplasms,5885,150.3
+2006,2,Rest of State,1,Male,2,Malignant Neoplasms,11282,207.4
+2007,0,New York State,1,Male,2,Malignant Neoplasms,17447,186.4
+2007,1,New York City,1,Male,2,Malignant Neoplasms,6045,153.1
+2007,2,Rest of State,1,Male,2,Malignant Neoplasms,11402,210.7
+2008,0,New York State,1,Male,2,Malignant Neoplasms,17490,184.8
+2008,1,New York City,1,Male,2,Malignant Neoplasms,5993,150
+2008,2,Rest of State,1,Male,2,Malignant Neoplasms,11497,210.3
+2009,0,New York State,1,Male,2,Malignant Neoplasms,17528,184.5
+2009,1,New York City,1,Male,2,Malignant Neoplasms,6040,150.6
+2009,2,Rest of State,1,Male,2,Malignant Neoplasms,11488,209.3
+2010,0,New York State,1,Male,2,Malignant Neoplasms,17388,185.4
+2010,1,New York City,1,Male,2,Malignant Neoplasms,6084,156.7
+2010,2,Rest of State,1,Male,2,Malignant Neoplasms,11304,205.7
+2011,0,New York State,1,Male,2,Malignant Neoplasms,17317,183.6
+2011,1,New York City,1,Male,2,Malignant Neoplasms,6046,154
+2011,2,Rest of State,1,Male,2,Malignant Neoplasms,11271,204.7
+2012,0,New York State,1,Male,2,Malignant Neoplasms,17803,187.6
+2012,1,New York City,1,Male,2,Malignant Neoplasms,6109,153.8
+2012,2,Rest of State,1,Male,2,Malignant Neoplasms,11694,212
+2013,0,New York State,1,Male,2,Malignant Neoplasms,17600,184.6
+2013,1,New York City,1,Male,2,Malignant Neoplasms,6121,152.6
+2013,2,Rest of State,1,Male,2,Malignant Neoplasms,11479,207.7
+2003,0,New York State,2,Female,2,Malignant Neoplasms,18495,186.6
+2003,1,New York City,2,Female,2,Malignant Neoplasms,6748,159.1
+2003,2,Rest of State,2,Female,2,Malignant Neoplasms,11747,207.1
+2004,0,New York State,2,Female,2,Malignant Neoplasms,18211,183.5
+2004,1,New York City,2,Female,2,Malignant Neoplasms,6525,153.6
+2004,2,Rest of State,2,Female,2,Malignant Neoplasms,11686,206
+2005,0,New York State,2,Female,2,Malignant Neoplasms,17962,180.9
+2005,1,New York City,2,Female,2,Malignant Neoplasms,6491,152.1
+2005,2,Rest of State,2,Female,2,Malignant Neoplasms,11471,202.6
+2006,0,New York State,2,Female,2,Malignant Neoplasms,17858,179.5
+2006,1,New York City,2,Female,2,Malignant Neoplasms,6396,148.8
+2006,2,Rest of State,2,Female,2,Malignant Neoplasms,11462,202.8
+2007,0,New York State,2,Female,2,Malignant Neoplasms,17736,178.5
+2007,1,New York City,2,Female,2,Malignant Neoplasms,6405,148.1
+2007,2,Rest of State,2,Female,2,Malignant Neoplasms,11331,201.9
+2008,0,New York State,2,Female,2,Malignant Neoplasms,17611,175.6
+2008,1,New York City,2,Female,2,Malignant Neoplasms,6245,143
+2008,2,Rest of State,2,Female,2,Malignant Neoplasms,11366,200.8
+2009,0,New York State,2,Female,2,Malignant Neoplasms,17346,172.7
+2009,1,New York City,2,Female,2,Malignant Neoplasms,6273,143.2
+2009,2,Rest of State,2,Female,2,Malignant Neoplasms,11073,195.6
+2010,0,New York State,2,Female,2,Malignant Neoplasms,17704,177
+2010,1,New York City,2,Female,2,Malignant Neoplasms,6324,147.3
+2010,2,Rest of State,2,Female,2,Malignant Neoplasms,11380,199.4
+2011,0,New York State,2,Female,2,Malignant Neoplasms,17714,176.6
+2011,1,New York City,2,Female,2,Malignant Neoplasms,6430,148.9
+2011,2,Rest of State,2,Female,2,Malignant Neoplasms,11284,197.5
+2012,0,New York State,2,Female,2,Malignant Neoplasms,17797,176.5
+2012,1,New York City,2,Female,2,Malignant Neoplasms,6485,148.6
+2012,2,Rest of State,2,Female,2,Malignant Neoplasms,11312,197.9
+2013,0,New York State,2,Female,2,Malignant Neoplasms,17478,172.8
+2013,1,New York City,2,Female,2,Malignant Neoplasms,6342,144.3
+2013,2,Rest of State,2,Female,2,Malignant Neoplasms,11136,194.7
+2003,0,New York State,0,Total,4,Diseases of the Heart,55255,287.9
+2003,1,New York City,0,Total,4,Diseases of the Heart,23740,293.6
+2003,2,Rest of State,0,Total,4,Diseases of the Heart,31515,283.8
+2004,0,New York State,0,Total,4,Diseases of the Heart,52131,271.1
+2004,1,New York City,0,Total,4,Diseases of the Heart,22430,276.8
+2004,2,Rest of State,0,Total,4,Diseases of the Heart,29701,267
+2005,0,New York State,0,Total,4,Diseases of the Heart,52002,270.1
+2005,1,New York City,0,Total,4,Diseases of the Heart,22501,276.3
+2005,2,Rest of State,0,Total,4,Diseases of the Heart,29501,265.5
+2006,0,New York State,0,Total,4,Diseases of the Heart,50202,260
+2006,1,New York City,0,Total,4,Diseases of the Heart,21677,263.9
+2006,2,Rest of State,0,Total,4,Diseases of the Heart,28525,257.2
+2007,0,New York State,0,Total,4,Diseases of the Heart,49313,255.5
+2007,1,New York City,0,Total,4,Diseases of the Heart,21173,255.9
+2007,2,Rest of State,0,Total,4,Diseases of the Heart,28140,255.3
+2008,0,New York State,0,Total,4,Diseases of the Heart,49137,252.1
+2008,1,New York City,0,Total,4,Diseases of the Heart,21064,251.8
+2008,2,Rest of State,0,Total,4,Diseases of the Heart,28073,252.3
+2009,0,New York State,0,Total,4,Diseases of the Heart,46921,240.1
+2009,1,New York City,0,Total,4,Diseases of the Heart,19865,236.7
+2009,2,Rest of State,0,Total,4,Diseases of the Heart,27056,242.7
+2010,0,New York State,0,Total,4,Diseases of the Heart,44557,229.9
+2010,1,New York City,0,Total,4,Diseases of the Heart,17669,216.1
+2010,2,Rest of State,0,Total,4,Diseases of the Heart,26888,240
+2011,0,New York State,0,Total,4,Diseases of the Heart,43963,225.9
+2011,1,New York City,0,Total,4,Diseases of the Heart,16794,203.7
+2011,2,Rest of State,0,Total,4,Diseases of the Heart,27169,242.1
+2012,0,New York State,0,Total,4,Diseases of the Heart,43262,221.1
+2012,1,New York City,0,Total,4,Diseases of the Heart,16521,198.2
+2012,2,Rest of State,0,Total,4,Diseases of the Heart,26741,238
+2013,0,New York State,0,Total,4,Diseases of the Heart,43119,219.4
+2013,1,New York City,0,Total,4,Diseases of the Heart,16574,197.2
+2013,2,Rest of State,0,Total,4,Diseases of the Heart,26545,236.1
+2003,0,New York State,1,Male,4,Diseases of the Heart,24906,268.5
+2003,1,New York City,1,Male,4,Diseases of the Heart,10419,271.1
+2003,2,Rest of State,1,Male,4,Diseases of the Heart,14487,266.7
+2004,0,New York State,1,Male,4,Diseases of the Heart,23366,251.1
+2004,1,New York City,1,Male,4,Diseases of the Heart,9742,252.7
+2004,2,Rest of State,1,Male,4,Diseases of the Heart,13624,250
+2005,0,New York State,1,Male,4,Diseases of the Heart,23459,251.5
+2005,1,New York City,1,Male,4,Diseases of the Heart,9768,252
+2005,2,Rest of State,1,Male,4,Diseases of the Heart,13691,251.2
+2006,0,New York State,1,Male,4,Diseases of the Heart,23024,246.1
+2006,1,New York City,1,Male,4,Diseases of the Heart,9613,245.5
+2006,2,Rest of State,1,Male,4,Diseases of the Heart,13411,246.5
+2007,0,New York State,1,Male,4,Diseases of the Heart,22842,244
+2007,1,New York City,1,Male,4,Diseases of the Heart,9504,240.7
+2007,2,Rest of State,1,Male,4,Diseases of the Heart,13338,246.5
+2008,0,New York State,1,Male,4,Diseases of the Heart,22760,240.5
+2008,1,New York City,1,Male,4,Diseases of the Heart,9434,236.1
+2008,2,Rest of State,1,Male,4,Diseases of the Heart,13326,243.8
+2009,0,New York State,1,Male,4,Diseases of the Heart,22079,232.4
+2009,1,New York City,1,Male,4,Diseases of the Heart,9080,226.4
+2009,2,Rest of State,1,Male,4,Diseases of the Heart,12999,236.9
+2010,0,New York State,1,Male,4,Diseases of the Heart,21131,225.3
+2010,1,New York City,1,Male,4,Diseases of the Heart,8230,212
+2010,2,Rest of State,1,Male,4,Diseases of the Heart,12901,234.8
+2011,0,New York State,1,Male,4,Diseases of the Heart,20689,219.4
+2011,1,New York City,1,Male,4,Diseases of the Heart,7686,195.8
+2011,2,Rest of State,1,Male,4,Diseases of the Heart,13003,236.1
+2012,0,New York State,1,Male,4,Diseases of the Heart,20835,219.6
+2012,1,New York City,1,Male,4,Diseases of the Heart,7775,195.7
+2012,2,Rest of State,1,Male,4,Diseases of the Heart,13060,236.7
+2013,0,New York State,1,Male,4,Diseases of the Heart,20925,219.4
+2013,1,New York City,1,Male,4,Diseases of the Heart,7836,195.4
+2013,2,Rest of State,1,Male,4,Diseases of the Heart,13089,236.9
+2003,0,New York State,2,Female,4,Diseases of the Heart,30349,306.1
+2003,1,New York City,2,Female,4,Diseases of the Heart,13321,314
+2003,2,Rest of State,2,Female,4,Diseases of the Heart,17028,300.2
+2004,0,New York State,2,Female,4,Diseases of the Heart,28753,289.8
+2004,1,New York City,2,Female,4,Diseases of the Heart,12688,298.6
+2004,2,Rest of State,2,Female,4,Diseases of the Heart,16065,283.1
+2005,0,New York State,2,Female,4,Diseases of the Heart,28543,287.5
+2005,1,New York City,2,Female,4,Diseases of the Heart,12733,298.4
+2005,2,Rest of State,2,Female,4,Diseases of the Heart,15810,279.3
+2006,0,New York State,2,Female,4,Diseases of the Heart,27178,273.1
+2006,1,New York City,2,Female,4,Diseases of the Heart,12064,280.6
+2006,2,Rest of State,2,Female,4,Diseases of the Heart,15114,267.4
+2007,0,New York State,2,Female,4,Diseases of the Heart,26471,266.4
+2007,1,New York City,2,Female,4,Diseases of the Heart,11669,269.8
+2007,2,Rest of State,2,Female,4,Diseases of the Heart,14802,263.8
+2008,0,New York State,2,Female,4,Diseases of the Heart,26376,263
+2008,1,New York City,2,Female,4,Diseases of the Heart,11630,266.2
+2008,2,Rest of State,2,Female,4,Diseases of the Heart,14746,260.5
+2009,0,New York State,2,Female,4,Diseases of the Heart,24842,247.4
+2009,1,New York City,2,Female,4,Diseases of the Heart,10785,246.2
+2009,2,Rest of State,2,Female,4,Diseases of the Heart,14057,248.3
+2010,0,New York State,2,Female,4,Diseases of the Heart,23426,234.2
+2010,1,New York City,2,Female,4,Diseases of the Heart,9439,219.9
+2010,2,Rest of State,2,Female,4,Diseases of the Heart,13987,245
+2011,0,New York State,2,Female,4,Diseases of the Heart,23273,232
+2011,1,New York City,2,Female,4,Diseases of the Heart,9108,210.9
+2011,2,Rest of State,2,Female,4,Diseases of the Heart,14165,247.9
+2012,0,New York State,2,Female,4,Diseases of the Heart,22427,222.5
+2012,1,New York City,2,Female,4,Diseases of the Heart,8746,200.4
+2012,2,Rest of State,2,Female,4,Diseases of the Heart,13681,239.3
+2013,0,New York State,2,Female,4,Diseases of the Heart,22193,219.4
+2013,1,New York City,2,Female,4,Diseases of the Heart,8738,198.8
+2013,2,Rest of State,2,Female,4,Diseases of the Heart,13455,235.2
+2003,0,New York State,0,Total,3,Diabetes Mellitus,4234,22.1
+2003,1,New York City,0,Total,3,Diabetes Mellitus,1870,23.1
+2003,2,Rest of State,0,Total,3,Diabetes Mellitus,2364,21.3
+2004,0,New York State,0,Total,3,Diabetes Mellitus,3916,20.4
+2004,1,New York City,0,Total,3,Diabetes Mellitus,1715,21.2
+2004,2,Rest of State,0,Total,3,Diabetes Mellitus,2201,19.8
+2005,0,New York State,0,Total,3,Diabetes Mellitus,4058,21.1
+2005,1,New York City,0,Total,3,Diabetes Mellitus,1780,21.9
+2005,2,Rest of State,0,Total,3,Diabetes Mellitus,2278,20.5
+2006,0,New York State,0,Total,3,Diabetes Mellitus,3835,19.9
+2006,1,New York City,0,Total,3,Diabetes Mellitus,1677,20.4
+2006,2,Rest of State,0,Total,3,Diabetes Mellitus,2158,19.5
+2007,0,New York State,0,Total,3,Diabetes Mellitus,3690,19.1
+2007,1,New York City,0,Total,3,Diabetes Mellitus,1563,18.9
+2007,2,Rest of State,0,Total,3,Diabetes Mellitus,2127,19.3
+2008,0,New York State,0,Total,3,Diabetes Mellitus,3582,18.4
+2008,1,New York City,0,Total,3,Diabetes Mellitus,1607,19.2
+2008,2,Rest of State,0,Total,3,Diabetes Mellitus,1975,17.8
+2009,0,New York State,0,Total,3,Diabetes Mellitus,3711,19
+2009,1,New York City,0,Total,3,Diabetes Mellitus,1665,19.8
+2009,2,Rest of State,0,Total,3,Diabetes Mellitus,2046,18.4
+2010,0,New York State,0,Total,3,Diabetes Mellitus,3606,18.6
+2010,1,New York City,0,Total,3,Diabetes Mellitus,1673,20.5
+2010,2,Rest of State,0,Total,3,Diabetes Mellitus,1933,17.3
+2011,0,New York State,0,Total,3,Diabetes Mellitus,3921,20.1
+2011,1,New York City,0,Total,3,Diabetes Mellitus,1736,21.1
+2011,2,Rest of State,0,Total,3,Diabetes Mellitus,2185,19.5
+2012,0,New York State,0,Total,3,Diabetes Mellitus,3970,20.3
+2012,1,New York City,0,Total,3,Diabetes Mellitus,1765,21.2
+2012,2,Rest of State,0,Total,3,Diabetes Mellitus,2205,19.6
+2013,0,New York State,0,Total,3,Diabetes Mellitus,4035,20.5
+2013,1,New York City,0,Total,3,Diabetes Mellitus,1830,21.8
+2013,2,Rest of State,0,Total,3,Diabetes Mellitus,2205,19.6
+2003,0,New York State,1,Male,3,Diabetes Mellitus,1984,21.4
+2003,1,New York City,1,Male,3,Diabetes Mellitus,848,22.1
+2003,2,Rest of State,1,Male,3,Diabetes Mellitus,1136,20.9
+2004,0,New York State,1,Male,3,Diabetes Mellitus,1891,20.3
+2004,1,New York City,1,Male,3,Diabetes Mellitus,796,20.6
+2004,2,Rest of State,1,Male,3,Diabetes Mellitus,1095,20.1
+2005,0,New York State,1,Male,3,Diabetes Mellitus,1978,21.2
+2005,1,New York City,1,Male,3,Diabetes Mellitus,821,21.2
+2005,2,Rest of State,1,Male,3,Diabetes Mellitus,1157,21.2
+2006,0,New York State,1,Male,3,Diabetes Mellitus,1946,20.8
+2006,1,New York City,1,Male,3,Diabetes Mellitus,801,20.5
+2006,2,Rest of State,1,Male,3,Diabetes Mellitus,1145,21
+2007,0,New York State,1,Male,3,Diabetes Mellitus,1798,19.2
+2007,1,New York City,1,Male,3,Diabetes Mellitus,733,18.6
+2007,2,Rest of State,1,Male,3,Diabetes Mellitus,1065,19.7
+2008,0,New York State,1,Male,3,Diabetes Mellitus,1761,18.6
+2008,1,New York City,1,Male,3,Diabetes Mellitus,736,18.4
+2008,2,Rest of State,1,Male,3,Diabetes Mellitus,1025,18.7
+2009,0,New York State,1,Male,3,Diabetes Mellitus,1852,19.5
+2009,1,New York City,1,Male,3,Diabetes Mellitus,789,19.7
+2009,2,Rest of State,1,Male,3,Diabetes Mellitus,1063,19.4
+2010,0,New York State,1,Male,3,Diabetes Mellitus,1791,19.1
+2010,1,New York City,1,Male,3,Diabetes Mellitus,759,19.5
+2010,2,Rest of State,1,Male,3,Diabetes Mellitus,1032,18.8
+2011,0,New York State,1,Male,3,Diabetes Mellitus,1961,20.8
+2011,1,New York City,1,Male,3,Diabetes Mellitus,815,20.8
+2011,2,Rest of State,1,Male,3,Diabetes Mellitus,1146,20.8
+2012,0,New York State,1,Male,3,Diabetes Mellitus,2009,21.2
+2012,1,New York City,1,Male,3,Diabetes Mellitus,857,21.6
+2012,2,Rest of State,1,Male,3,Diabetes Mellitus,1152,20.9
+2013,0,New York State,1,Male,3,Diabetes Mellitus,2025,21.2
+2013,1,New York City,1,Male,3,Diabetes Mellitus,872,21.7
+2013,2,Rest of State,1,Male,3,Diabetes Mellitus,1153,20.9
+2003,0,New York State,2,Female,3,Diabetes Mellitus,2250,22.7
+2003,1,New York City,2,Female,3,Diabetes Mellitus,1022,24.1
+2003,2,Rest of State,2,Female,3,Diabetes Mellitus,1228,21.7
+2004,0,New York State,2,Female,3,Diabetes Mellitus,2024,20.4
+2004,1,New York City,2,Female,3,Diabetes Mellitus,919,21.6
+2004,2,Rest of State,2,Female,3,Diabetes Mellitus,1105,19.5
+2005,0,New York State,2,Female,3,Diabetes Mellitus,2080,21
+2005,1,New York City,2,Female,3,Diabetes Mellitus,959,22.5
+2005,2,Rest of State,2,Female,3,Diabetes Mellitus,1121,19.8
+2006,0,New York State,2,Female,3,Diabetes Mellitus,1889,19
+2006,1,New York City,2,Female,3,Diabetes Mellitus,876,20.4
+2006,2,Rest of State,2,Female,3,Diabetes Mellitus,1013,17.9
+2007,0,New York State,2,Female,3,Diabetes Mellitus,1892,19
+2007,1,New York City,2,Female,3,Diabetes Mellitus,830,19.2
+2007,2,Rest of State,2,Female,3,Diabetes Mellitus,1062,18.9
+2008,0,New York State,2,Female,3,Diabetes Mellitus,1821,18.2
+2008,1,New York City,2,Female,3,Diabetes Mellitus,871,19.9
+2008,2,Rest of State,2,Female,3,Diabetes Mellitus,950,16.8
+2009,0,New York State,2,Female,3,Diabetes Mellitus,1859,18.5
+2009,1,New York City,2,Female,3,Diabetes Mellitus,876,20
+2009,2,Rest of State,2,Female,3,Diabetes Mellitus,983,17.4
+2010,0,New York State,2,Female,3,Diabetes Mellitus,1815,18.1
+2010,1,New York City,2,Female,3,Diabetes Mellitus,914,21.3
+2010,2,Rest of State,2,Female,3,Diabetes Mellitus,901,15.8
+2011,0,New York State,2,Female,3,Diabetes Mellitus,1960,19.5
+2011,1,New York City,2,Female,3,Diabetes Mellitus,921,21.3
+2011,2,Rest of State,2,Female,3,Diabetes Mellitus,1039,18.2
+2012,0,New York State,2,Female,3,Diabetes Mellitus,1961,19.5
+2012,1,New York City,2,Female,3,Diabetes Mellitus,908,20.8
+2012,2,Rest of State,2,Female,3,Diabetes Mellitus,1053,18.4
+2013,0,New York State,2,Female,3,Diabetes Mellitus,2010,19.9
+2013,1,New York City,2,Female,3,Diabetes Mellitus,958,21.8
+2013,2,Rest of State,2,Female,3,Diabetes Mellitus,1052,18.4
+2003,0,New York State,0,Total,7,CLRD,6704,34.9
+2003,1,New York City,0,Total,7,CLRD,1708,21.1
+2003,2,Rest of State,0,Total,7,CLRD,4996,45
+2004,0,New York State,0,Total,7,CLRD,6742,35.1
+2004,1,New York City,0,Total,7,CLRD,1699,21
+2004,2,Rest of State,0,Total,7,CLRD,5043,45.3
+2005,0,New York State,0,Total,7,CLRD,6805,35.3
+2005,1,New York City,0,Total,7,CLRD,1618,19.9
+2005,2,Rest of State,0,Total,7,CLRD,5187,46.7
+2006,0,New York State,0,Total,7,CLRD,6263,32.4
+2006,1,New York City,0,Total,7,CLRD,1414,17.2
+2006,2,Rest of State,0,Total,7,CLRD,4849,43.7
+2007,0,New York State,0,Total,7,CLRD,6465,33.5
+2007,1,New York City,0,Total,7,CLRD,1403,17
+2007,2,Rest of State,0,Total,7,CLRD,5062,45.9
+2008,0,New York State,0,Total,7,CLRD,6841,35.1
+2008,1,New York City,0,Total,7,CLRD,1627,19.5
+2008,2,Rest of State,0,Total,7,CLRD,5214,46.9
+2009,0,New York State,0,Total,7,CLRD,6712,34.3
+2009,1,New York City,0,Total,7,CLRD,1542,18.4
+2009,2,Rest of State,0,Total,7,CLRD,5170,46.4
+2010,0,New York State,0,Total,7,CLRD,6775,35
+2010,1,New York City,0,Total,7,CLRD,1723,21.1
+2010,2,Rest of State,0,Total,7,CLRD,5052,45.1
+2011,0,New York State,0,Total,7,CLRD,6902,35.5
+2011,1,New York City,0,Total,7,CLRD,1785,21.6
+2011,2,Rest of State,0,Total,7,CLRD,5117,45.6
+2012,0,New York State,0,Total,7,CLRD,6986,35.7
+2012,1,New York City,0,Total,7,CLRD,1663,19.9
+2012,2,Rest of State,0,Total,7,CLRD,5323,47.4
+2013,0,New York State,0,Total,7,CLRD,6977,35.5
+2013,1,New York City,0,Total,7,CLRD,1853,22
+2013,2,Rest of State,0,Total,7,CLRD,5124,45.6
+2003,0,New York State,1,Male,7,CLRD,3057,33
+2003,1,New York City,1,Male,7,CLRD,822,21.4
+2003,2,Rest of State,1,Male,7,CLRD,2235,41.1
+2004,0,New York State,1,Male,7,CLRD,3019,32.4
+2004,1,New York City,1,Male,7,CLRD,742,19.2
+2004,2,Rest of State,1,Male,7,CLRD,2277,41.8
+2005,0,New York State,1,Male,7,CLRD,3030,32.5
+2005,1,New York City,1,Male,7,CLRD,712,18.4
+2005,2,Rest of State,1,Male,7,CLRD,2318,42.5
+2006,0,New York State,1,Male,7,CLRD,2847,30.4
+2006,1,New York City,1,Male,7,CLRD,647,16.5
+2006,2,Rest of State,1,Male,7,CLRD,2200,40.4
+2007,0,New York State,1,Male,7,CLRD,2875,30.7
+2007,1,New York City,1,Male,7,CLRD,616,15.6
+2007,2,Rest of State,1,Male,7,CLRD,2259,41.7
+2008,0,New York State,1,Male,7,CLRD,2930,31
+2008,1,New York City,1,Male,7,CLRD,709,17.7
+2008,2,Rest of State,1,Male,7,CLRD,2221,40.6
+2009,0,New York State,1,Male,7,CLRD,3097,32.6
+2009,1,New York City,1,Male,7,CLRD,689,17.2
+2009,2,Rest of State,1,Male,7,CLRD,2408,43.9
+2010,0,New York State,1,Male,7,CLRD,3010,32.1
+2010,1,New York City,1,Male,7,CLRD,819,21.1
+2010,2,Rest of State,1,Male,7,CLRD,2191,39.9
+2011,0,New York State,1,Male,7,CLRD,3161,33.5
+2011,1,New York City,1,Male,7,CLRD,826,21
+2011,2,Rest of State,1,Male,7,CLRD,2335,42.4
+2012,0,New York State,1,Male,7,CLRD,3058,32.2
+2012,1,New York City,1,Male,7,CLRD,735,18.5
+2012,2,Rest of State,1,Male,7,CLRD,2323,42.1
+2013,0,New York State,1,Male,7,CLRD,3137,32.9
+2013,1,New York City,1,Male,7,CLRD,857,21.4
+2013,2,Rest of State,1,Male,7,CLRD,2280,41.3
+2003,0,New York State,2,Female,7,CLRD,3647,36.8
+2003,1,New York City,2,Female,7,CLRD,886,20.9
+2003,2,Rest of State,2,Female,7,CLRD,2761,48.7
+2004,0,New York State,2,Female,7,CLRD,3721,37.5
+2004,1,New York City,2,Female,7,CLRD,957,22.5
+2004,2,Rest of State,2,Female,7,CLRD,2764,48.7
+2005,0,New York State,2,Female,7,CLRD,3775,38
+2005,1,New York City,2,Female,7,CLRD,906,21.2
+2005,2,Rest of State,2,Female,7,CLRD,2869,50.7
+2006,0,New York State,2,Female,7,CLRD,3416,34.3
+2006,1,New York City,2,Female,7,CLRD,767,17.8
+2006,2,Rest of State,2,Female,7,CLRD,2649,46.9
+2007,0,New York State,2,Female,7,CLRD,3590,36.1
+2007,1,New York City,2,Female,7,CLRD,787,18.2
+2007,2,Rest of State,2,Female,7,CLRD,2803,50
+2008,0,New York State,2,Female,7,CLRD,3911,39
+2008,1,New York City,2,Female,7,CLRD,918,21
+2008,2,Rest of State,2,Female,7,CLRD,2993,52.9
+2009,0,New York State,2,Female,7,CLRD,3615,36
+2009,1,New York City,2,Female,7,CLRD,853,19.5
+2009,2,Rest of State,2,Female,7,CLRD,2762,48.8
+2010,0,New York State,2,Female,7,CLRD,3765,37.6
+2010,1,New York City,2,Female,7,CLRD,904,21.1
+2010,2,Rest of State,2,Female,7,CLRD,2861,50.1
+2011,0,New York State,2,Female,7,CLRD,3741,37.3
+2011,1,New York City,2,Female,7,CLRD,959,22.2
+2011,2,Rest of State,2,Female,7,CLRD,2782,48.7
+2012,0,New York State,2,Female,7,CLRD,3928,39
+2012,1,New York City,2,Female,7,CLRD,928,21.3
+2012,2,Rest of State,2,Female,7,CLRD,3000,52.5
+2013,0,New York State,2,Female,7,CLRD,3839,38
+2013,1,New York City,2,Female,7,CLRD,996,22.7
+2013,2,Rest of State,2,Female,7,CLRD,2843,49.7
+2003,0,New York State,0,Total,5,Cerebrovascular Disease,7219,37.6
+2003,1,New York City,0,Total,5,Cerebrovascular Disease,1869,23.1
+2003,2,Rest of State,0,Total,5,Cerebrovascular Disease,5350,48.2
+2004,0,New York State,0,Total,5,Cerebrovascular Disease,6855,35.7
+2004,1,New York City,0,Total,5,Cerebrovascular Disease,1822,22.5
+2004,2,Rest of State,0,Total,5,Cerebrovascular Disease,5033,45.2
+2005,0,New York State,0,Total,5,Cerebrovascular Disease,6566,34.1
+2005,1,New York City,0,Total,5,Cerebrovascular Disease,1662,20.4
+2005,2,Rest of State,0,Total,5,Cerebrovascular Disease,4904,44.1
+2006,0,New York State,0,Total,5,Cerebrovascular Disease,6310,32.7
+2006,1,New York City,0,Total,5,Cerebrovascular Disease,1710,20.8
+2006,2,Rest of State,0,Total,5,Cerebrovascular Disease,4600,41.5
+2007,0,New York State,0,Total,5,Cerebrovascular Disease,5881,30.5
+2007,1,New York City,0,Total,5,Cerebrovascular Disease,1601,19.3
+2007,2,Rest of State,0,Total,5,Cerebrovascular Disease,4280,38.8
+2008,0,New York State,0,Total,5,Cerebrovascular Disease,5883,30.2
+2008,1,New York City,0,Total,5,Cerebrovascular Disease,1560,18.7
+2008,2,Rest of State,0,Total,5,Cerebrovascular Disease,4323,38.9
+2009,0,New York State,0,Total,5,Cerebrovascular Disease,5845,29.9
+2009,1,New York City,0,Total,5,Cerebrovascular Disease,1515,18.1
+2009,2,Rest of State,0,Total,5,Cerebrovascular Disease,4330,38.8
+2010,0,New York State,0,Total,5,Cerebrovascular Disease,6120,31.6
+2010,1,New York City,0,Total,5,Cerebrovascular Disease,1599,19.6
+2010,2,Rest of State,0,Total,5,Cerebrovascular Disease,4521,40.4
+2011,0,New York State,0,Total,5,Cerebrovascular Disease,6153,31.6
+2011,1,New York City,0,Total,5,Cerebrovascular Disease,1778,21.6
+2011,2,Rest of State,0,Total,5,Cerebrovascular Disease,4375,39
+2012,0,New York State,0,Total,5,Cerebrovascular Disease,6029,30.8
+2012,1,New York City,0,Total,5,Cerebrovascular Disease,1656,19.9
+2012,2,Rest of State,0,Total,5,Cerebrovascular Disease,4373,38.9
+2013,0,New York State,0,Total,5,Cerebrovascular Disease,5961,30.3
+2013,1,New York City,0,Total,5,Cerebrovascular Disease,1733,20.6
+2013,2,Rest of State,0,Total,5,Cerebrovascular Disease,4228,37.6
+2003,0,New York State,1,Male,5,Cerebrovascular Disease,2825,30.5
+2003,1,New York City,1,Male,5,Cerebrovascular Disease,790,20.6
+2003,2,Rest of State,1,Male,5,Cerebrovascular Disease,2035,37.5
+2004,0,New York State,1,Male,5,Cerebrovascular Disease,2674,28.7
+2004,1,New York City,1,Male,5,Cerebrovascular Disease,778,20.2
+2004,2,Rest of State,1,Male,5,Cerebrovascular Disease,1896,34.8
+2005,0,New York State,1,Male,5,Cerebrovascular Disease,2549,27.3
+2005,1,New York City,1,Male,5,Cerebrovascular Disease,671,17.3
+2005,2,Rest of State,1,Male,5,Cerebrovascular Disease,1878,34.5
+2006,0,New York State,1,Male,5,Cerebrovascular Disease,2505,26.8
+2006,1,New York City,1,Male,5,Cerebrovascular Disease,726,18.5
+2006,2,Rest of State,1,Male,5,Cerebrovascular Disease,1779,32.7
+2007,0,New York State,1,Male,5,Cerebrovascular Disease,2307,24.6
+2007,1,New York City,1,Male,5,Cerebrovascular Disease,675,17.1
+2007,2,Rest of State,1,Male,5,Cerebrovascular Disease,1632,30.2
+2008,0,New York State,1,Male,5,Cerebrovascular Disease,2340,24.7
+2008,1,New York City,1,Male,5,Cerebrovascular Disease,633,15.8
+2008,2,Rest of State,1,Male,5,Cerebrovascular Disease,1707,31.2
+2009,0,New York State,1,Male,5,Cerebrovascular Disease,2270,23.9
+2009,1,New York City,1,Male,5,Cerebrovascular Disease,619,15.4
+2009,2,Rest of State,1,Male,5,Cerebrovascular Disease,1651,30.1
+2010,0,New York State,1,Male,5,Cerebrovascular Disease,2388,25.5
+2010,1,New York City,1,Male,5,Cerebrovascular Disease,669,17.2
+2010,2,Rest of State,1,Male,5,Cerebrovascular Disease,1719,31.3
+2011,0,New York State,1,Male,5,Cerebrovascular Disease,2421,25.7
+2011,1,New York City,1,Male,5,Cerebrovascular Disease,727,18.5
+2011,2,Rest of State,1,Male,5,Cerebrovascular Disease,1694,30.8
+2012,0,New York State,1,Male,5,Cerebrovascular Disease,2397,25.3
+2012,1,New York City,1,Male,5,Cerebrovascular Disease,674,17
+2012,2,Rest of State,1,Male,5,Cerebrovascular Disease,1723,31.2
+2013,0,New York State,1,Male,5,Cerebrovascular Disease,2330,24.4
+2013,1,New York City,1,Male,5,Cerebrovascular Disease,690,17.2
+2013,2,Rest of State,1,Male,5,Cerebrovascular Disease,1640,29.7
+2003,0,New York State,2,Female,5,Cerebrovascular Disease,4394,44.3
+2003,1,New York City,2,Female,5,Cerebrovascular Disease,1079,25.4
+2003,2,Rest of State,2,Female,5,Cerebrovascular Disease,3315,58.4
+2004,0,New York State,2,Female,5,Cerebrovascular Disease,4181,42.1
+2004,1,New York City,2,Female,5,Cerebrovascular Disease,1044,24.6
+2004,2,Rest of State,2,Female,5,Cerebrovascular Disease,3137,55.3
+2005,0,New York State,2,Female,5,Cerebrovascular Disease,4017,40.5
+2005,1,New York City,2,Female,5,Cerebrovascular Disease,991,23.2
+2005,2,Rest of State,2,Female,5,Cerebrovascular Disease,3026,53.5
+2006,0,New York State,2,Female,5,Cerebrovascular Disease,3805,38.2
+2006,1,New York City,2,Female,5,Cerebrovascular Disease,984,22.9
+2006,2,Rest of State,2,Female,5,Cerebrovascular Disease,2821,49.9
+2007,0,New York State,2,Female,5,Cerebrovascular Disease,3574,36
+2007,1,New York City,2,Female,5,Cerebrovascular Disease,926,21.4
+2007,2,Rest of State,2,Female,5,Cerebrovascular Disease,2648,47.2
+2008,0,New York State,2,Female,5,Cerebrovascular Disease,3543,35.3
+2008,1,New York City,2,Female,5,Cerebrovascular Disease,927,21.2
+2008,2,Rest of State,2,Female,5,Cerebrovascular Disease,2616,46.2
+2009,0,New York State,2,Female,5,Cerebrovascular Disease,3575,35.6
+2009,1,New York City,2,Female,5,Cerebrovascular Disease,896,20.5
+2009,2,Rest of State,2,Female,5,Cerebrovascular Disease,2679,47.3
+2010,0,New York State,2,Female,5,Cerebrovascular Disease,3732,37.3
+2010,1,New York City,2,Female,5,Cerebrovascular Disease,930,21.7
+2010,2,Rest of State,2,Female,5,Cerebrovascular Disease,2802,49.1
+2011,0,New York State,2,Female,5,Cerebrovascular Disease,3731,37.2
+2011,1,New York City,2,Female,5,Cerebrovascular Disease,1051,24.3
+2011,2,Rest of State,2,Female,5,Cerebrovascular Disease,2680,46.9
+2012,0,New York State,2,Female,5,Cerebrovascular Disease,3632,36
+2012,1,New York City,2,Female,5,Cerebrovascular Disease,982,22.5
+2012,2,Rest of State,2,Female,5,Cerebrovascular Disease,2650,46.4
+2013,0,New York State,2,Female,5,Cerebrovascular Disease,3631,35.9
+2013,1,New York City,2,Female,5,Cerebrovascular Disease,1043,23.7
+2013,2,Rest of State,2,Female,5,Cerebrovascular Disease,2588,45.2
+2003,0,New York State,0,Total,9,Others,34031,177.3
+2003,1,New York City,0,Total,9,Others,10361,128.1
+2003,2,Rest of State,0,Total,9,Others,23670,213.2
+2004,0,New York State,0,Total,9,Others,34690,180.4
+2004,1,New York City,0,Total,9,Others,10312,127.2
+2004,2,Rest of State,0,Total,9,Others,24378,219.2
+2005,0,New York State,0,Total,9,Others,34713,180.3
+2005,1,New York City,0,Total,9,Others,10254,125.9
+2005,2,Rest of State,0,Total,9,Others,24459,220.1
+2006,0,New York State,0,Total,9,Others,35203,182.3
+2006,1,New York City,0,Total,9,Others,10491,127.7
+2006,2,Rest of State,0,Total,9,Others,24712,222.8
+2007,0,New York State,0,Total,9,Others,35000,181.4
+2007,1,New York City,0,Total,9,Others,9600,116
+2007,2,Rest of State,0,Total,9,Others,25400,230.4
+2008,0,New York State,0,Total,9,Others,36139,185.4
+2008,1,New York City,0,Total,9,Others,10011,119.7
+2008,2,Rest of State,0,Total,9,Others,26128,234.8
+2009,0,New York State,0,Total,9,Others,36695,187.8
+2009,1,New York City,0,Total,9,Others,10040,119.6
+2009,2,Rest of State,0,Total,9,Others,26655,239.1
+2010,0,New York State,0,Total,9,Others,38489,198.6
+2010,1,New York City,0,Total,9,Others,11169,136.6
+2010,2,Rest of State,0,Total,9,Others,27320,243.9
+2011,0,New York State,0,Total,9,Others,40177,206.4
+2011,1,New York City,0,Total,9,Others,11993,145.5
+2011,2,Rest of State,0,Total,9,Others,28184,251.2
+2012,0,New York State,0,Total,9,Others,41008,209.5
+2012,1,New York City,0,Total,9,Others,12284,147.3
+2012,2,Rest of State,0,Total,9,Others,28724,255.7
+2013,0,New York State,0,Total,9,Others,41337,210.4
+2013,1,New York City,0,Total,9,Others,12797,152.2
+2013,2,Rest of State,0,Total,9,Others,28540,253.8
+2003,0,New York State,1,Male,9,Others,16431,177.1
+2003,1,New York City,1,Male,9,Others,5592,145.5
+2003,2,Rest of State,1,Male,9,Others,10839,199.5
+2004,0,New York State,1,Male,9,Others,16655,179
+2004,1,New York City,1,Male,9,Others,5447,141.3
+2004,2,Rest of State,1,Male,9,Others,11208,205.7
+2005,0,New York State,1,Male,9,Others,16525,177.2
+2005,1,New York City,1,Male,9,Others,5504,142
+2005,2,Rest of State,1,Male,9,Others,11021,202.2
+2006,0,New York State,1,Male,9,Others,16942,181.1
+2006,1,New York City,1,Male,9,Others,5634,143.9
+2006,2,Rest of State,1,Male,9,Others,11308,207.9
+2007,0,New York State,1,Male,9,Others,16460,175.8
+2007,1,New York City,1,Male,9,Others,4990,126.4
+2007,2,Rest of State,1,Male,9,Others,11470,211.9
+2008,0,New York State,1,Male,9,Others,16884,178.4
+2008,1,New York City,1,Male,9,Others,5118,128.1
+2008,2,Rest of State,1,Male,9,Others,11766,215.2
+2009,0,New York State,1,Male,9,Others,17187,180.9
+2009,1,New York City,1,Male,9,Others,5074,126.5
+2009,2,Rest of State,1,Male,9,Others,12113,220.7
+2010,0,New York State,1,Male,9,Others,17986,191.8
+2010,1,New York City,1,Male,9,Others,5481,141.2
+2010,2,Rest of State,1,Male,9,Others,12505,227.6
+2011,0,New York State,1,Male,9,Others,18778,199.1
+2011,1,New York City,1,Male,9,Others,5847,149
+2011,2,Rest of State,1,Male,9,Others,12931,234.8
+2012,0,New York State,1,Male,9,Others,19022,200.5
+2012,1,New York City,1,Male,9,Others,5871,147.8
+2012,2,Rest of State,1,Male,9,Others,13151,238.4
+2013,0,New York State,1,Male,9,Others,19012,199.4
+2013,1,New York City,1,Male,9,Others,6052,150.9
+2013,2,Rest of State,1,Male,9,Others,12960,234.5
+2003,0,New York State,2,Female,9,Others,17600,177.5
+2003,1,New York City,2,Female,9,Others,4769,112.4
+2003,2,Rest of State,2,Female,9,Others,12831,226.2
+2004,0,New York State,2,Female,9,Others,18029,181.7
+2004,1,New York City,2,Female,9,Others,4865,114.5
+2004,2,Rest of State,2,Female,9,Others,13164,232
+2005,0,New York State,2,Female,9,Others,18188,183.2
+2005,1,New York City,2,Female,9,Others,4750,111.3
+2005,2,Rest of State,2,Female,9,Others,13438,237.4
+2006,0,New York State,2,Female,9,Others,18259,183.5
+2006,1,New York City,2,Female,9,Others,4857,113
+2006,2,Rest of State,2,Female,9,Others,13402,237.1
+2007,0,New York State,2,Female,9,Others,18540,186.6
+2007,1,New York City,2,Female,9,Others,4610,106.6
+2007,2,Rest of State,2,Female,9,Others,13930,248.2
+2008,0,New York State,2,Female,9,Others,19255,192
+2008,1,New York City,2,Female,9,Others,4893,112
+2008,2,Rest of State,2,Female,9,Others,14362,253.8
+2009,0,New York State,2,Female,9,Others,19505,194.2
+2009,1,New York City,2,Female,9,Others,4966,113.4
+2009,2,Rest of State,2,Female,9,Others,14539,256.8
+2010,0,New York State,2,Female,9,Others,20500,205
+2010,1,New York City,2,Female,9,Others,5688,132.5
+2010,2,Rest of State,2,Female,9,Others,14812,259.5
+2011,0,New York State,2,Female,9,Others,21395,213.2
+2011,1,New York City,2,Female,9,Others,6146,142.3
+2011,2,Rest of State,2,Female,9,Others,15249,266.9
+2012,0,New York State,2,Female,9,Others,21986,218.1
+2012,1,New York City,2,Female,9,Others,6413,146.9
+2012,2,Rest of State,2,Female,9,Others,15573,272.4
+2013,0,New York State,2,Female,9,Others,22325,220.7
+2013,1,New York City,2,Female,9,Others,6745,153.5
+2013,2,Rest of State,2,Female,9,Others,15580,272.4
+2003,0,New York State,0,Total,1,AIDS,1901,9.9
+2003,1,New York City,0,Total,1,AIDS,1610,19.9
+2003,2,Rest of State,0,Total,1,AIDS,291,2.6
+2004,0,New York State,0,Total,1,AIDS,1722,9
+2004,1,New York City,0,Total,1,AIDS,1414,17.4
+2004,2,Rest of State,0,Total,1,AIDS,308,2.8
+2005,0,New York State,0,Total,1,AIDS,1646,8.5
+2005,1,New York City,0,Total,1,AIDS,1380,16.9
+2005,2,Rest of State,0,Total,1,AIDS,266,2.4
+2006,0,New York State,0,Total,1,AIDS,1456,7.5
+2006,1,New York City,0,Total,1,AIDS,1170,14.2
+2006,2,Rest of State,0,Total,1,AIDS,286,2.6
+2007,0,New York State,0,Total,1,AIDS,1327,6.9
+2007,1,New York City,0,Total,1,AIDS,1077,13
+2007,2,Rest of State,0,Total,1,AIDS,250,2.3
+2008,0,New York State,0,Total,1,AIDS,1250,6.4
+2008,1,New York City,0,Total,1,AIDS,1035,12.4
+2008,2,Rest of State,0,Total,1,AIDS,215,1.9
+2009,0,New York State,0,Total,1,AIDS,1094,5.6
+2009,1,New York City,0,Total,1,AIDS,910,10.8
+2009,2,Rest of State,0,Total,1,AIDS,184,1.7
+2010,0,New York State,0,Total,1,AIDS,984,5.1
+2010,1,New York City,0,Total,1,AIDS,802,9.8
+2010,2,Rest of State,0,Total,1,AIDS,182,1.6
+2011,0,New York State,0,Total,1,AIDS,900,4.6
+2011,1,New York City,0,Total,1,AIDS,743,9
+2011,2,Rest of State,0,Total,1,AIDS,157,1.4
+2012,0,New York State,0,Total,1,AIDS,749,3.8
+2012,1,New York City,0,Total,1,AIDS,584,7
+2012,2,Rest of State,0,Total,1,AIDS,165,1.5
+2013,0,New York State,0,Total,1,AIDS,721,3.7
+2013,1,New York City,0,Total,1,AIDS,556,6.6
+2013,2,Rest of State,0,Total,1,AIDS,165,1.5
+2003,0,New York State,1,Male,1,AIDS,1271,13.7
+2003,1,New York City,1,Male,1,AIDS,1062,27.6
+2003,2,Rest of State,1,Male,1,AIDS,209,3.8
+2004,0,New York State,1,Male,1,AIDS,1112,12
+2004,1,New York City,1,Male,1,AIDS,914,23.7
+2004,2,Rest of State,1,Male,1,AIDS,198,3.6
+2005,0,New York State,1,Male,1,AIDS,1114,11.9
+2005,1,New York City,1,Male,1,AIDS,915,23.6
+2005,2,Rest of State,1,Male,1,AIDS,199,3.7
+2006,0,New York State,1,Male,1,AIDS,987,10.6
+2006,1,New York City,1,Male,1,AIDS,791,20.2
+2006,2,Rest of State,1,Male,1,AIDS,196,3.6
+2007,0,New York State,1,Male,1,AIDS,867,9.3
+2007,1,New York City,1,Male,1,AIDS,690,17.5
+2007,2,Rest of State,1,Male,1,AIDS,177,3.3
+2008,0,New York State,1,Male,1,AIDS,814,8.6
+2008,1,New York City,1,Male,1,AIDS,674,16.9
+2008,2,Rest of State,1,Male,1,AIDS,140,2.6
+2009,0,New York State,1,Male,1,AIDS,715,7.5
+2009,1,New York City,1,Male,1,AIDS,589,14.7
+2009,2,Rest of State,1,Male,1,AIDS,126,2.3
+2010,0,New York State,1,Male,1,AIDS,686,7.3
+2010,1,New York City,1,Male,1,AIDS,550,14.2
+2010,2,Rest of State,1,Male,1,AIDS,136,2.5
+2011,0,New York State,1,Male,1,AIDS,604,6.4
+2011,1,New York City,1,Male,1,AIDS,507,12.9
+2011,2,Rest of State,1,Male,1,AIDS,97,1.8
+2012,0,New York State,1,Male,1,AIDS,509,5.4
+2012,1,New York City,1,Male,1,AIDS,389,9.8
+2012,2,Rest of State,1,Male,1,AIDS,120,2.2
+2013,0,New York State,1,Male,1,AIDS,482,5.1
+2013,1,New York City,1,Male,1,AIDS,380,9.5
+2013,2,Rest of State,1,Male,1,AIDS,102,1.8
+2003,0,New York State,2,Female,1,AIDS,630,6.4
+2003,1,New York City,2,Female,1,AIDS,548,12.9
+2003,2,Rest of State,2,Female,1,AIDS,82,1.4
+2004,0,New York State,2,Female,1,AIDS,610,6.1
+2004,1,New York City,2,Female,1,AIDS,500,11.8
+2004,2,Rest of State,2,Female,1,AIDS,110,1.9
+2005,0,New York State,2,Female,1,AIDS,532,5.4
+2005,1,New York City,2,Female,1,AIDS,465,10.9
+2005,2,Rest of State,2,Female,1,AIDS,67,1.2
+2006,0,New York State,2,Female,1,AIDS,469,4.7
+2006,1,New York City,2,Female,1,AIDS,379,8.8
+2006,2,Rest of State,2,Female,1,AIDS,90,1.6
+2007,0,New York State,2,Female,1,AIDS,460,4.6
+2007,1,New York City,2,Female,1,AIDS,387,8.9
+2007,2,Rest of State,2,Female,1,AIDS,73,1.3
+2008,0,New York State,2,Female,1,AIDS,436,4.3
+2008,1,New York City,2,Female,1,AIDS,361,8.3
+2008,2,Rest of State,2,Female,1,AIDS,75,1.3
+2009,0,New York State,2,Female,1,AIDS,379,3.8
+2009,1,New York City,2,Female,1,AIDS,321,7.3
+2009,2,Rest of State,2,Female,1,AIDS,58,1
+2010,0,New York State,2,Female,1,AIDS,298,3
+2010,1,New York City,2,Female,1,AIDS,252,5.9
+2010,2,Rest of State,2,Female,1,AIDS,46,0.8
+2011,0,New York State,2,Female,1,AIDS,296,3
+2011,1,New York City,2,Female,1,AIDS,236,5.5
+2011,2,Rest of State,2,Female,1,AIDS,60,1.1
+2012,0,New York State,2,Female,1,AIDS,240,2.4
+2012,1,New York City,2,Female,1,AIDS,195,4.5
+2012,2,Rest of State,2,Female,1,AIDS,45,0.8
+2013,0,New York State,2,Female,1,AIDS,239,2.4
+2013,1,New York City,2,Female,1,AIDS,176,4
+2013,2,Rest of State,2,Female,1,AIDS,63,1.1
+2003,0,New York State,0,Total,8,Accidents (Total),4195,21.9
+2003,1,New York City,0,Total,8,Accidents (Total),1189,14.7
+2003,2,Rest of State,0,Total,8,Accidents (Total),3006,27.1
+2004,0,New York State,0,Total,8,Accidents (Total),3927,20.4
+2004,1,New York City,0,Total,8,Accidents (Total),1078,13.3
+2004,2,Rest of State,0,Total,8,Accidents (Total),2849,25.6
+2005,0,New York State,0,Total,8,Accidents (Total),4345,22.6
+2005,1,New York City,0,Total,8,Accidents (Total),1227,15.1
+2005,2,Rest of State,0,Total,8,Accidents (Total),3118,28.1
+2006,0,New York State,0,Total,8,Accidents (Total),4431,23
+2006,1,New York City,0,Total,8,Accidents (Total),1227,14.9
+2006,2,Rest of State,0,Total,8,Accidents (Total),3204,28.9
+2007,0,New York State,0,Total,8,Accidents (Total),4905,25.4
+2007,1,New York City,0,Total,8,Accidents (Total),1658,20
+2007,2,Rest of State,0,Total,8,Accidents (Total),3247,29.5
+2008,0,New York State,0,Total,8,Accidents (Total),4988,25.6
+2008,1,New York City,0,Total,8,Accidents (Total),1587,19
+2008,2,Rest of State,0,Total,8,Accidents (Total),3401,30.6
+2009,0,New York State,0,Total,8,Accidents (Total),4754,24.3
+2009,1,New York City,0,Total,8,Accidents (Total),1493,17.8
+2009,2,Rest of State,0,Total,8,Accidents (Total),3261,29.2
+2010,0,New York State,0,Total,8,Accidents (Total),4720,24.4
+2010,1,New York City,0,Total,8,Accidents (Total),1398,17.1
+2010,2,Rest of State,0,Total,8,Accidents (Total),3322,29.7
+2011,0,New York State,0,Total,8,Accidents (Total),5249,27
+2011,1,New York City,0,Total,8,Accidents (Total),1566,19
+2011,2,Rest of State,0,Total,8,Accidents (Total),3683,32.8
+2012,0,New York State,0,Total,8,Accidents (Total),5455,27.9
+2012,1,New York City,0,Total,8,Accidents (Total),1613,19.3
+2012,2,Rest of State,0,Total,8,Accidents (Total),3842,34.2
+2013,0,New York State,0,Total,8,Accidents (Total),5553,28.3
+2013,1,New York City,0,Total,8,Accidents (Total),1636,19.5
+2013,2,Rest of State,0,Total,8,Accidents (Total),3917,34.8
+2003,0,New York State,1,Male,8,Accidents (Total),2672,28.8
+2003,1,New York City,1,Male,8,Accidents (Total),727,18.9
+2003,2,Rest of State,1,Male,8,Accidents (Total),1945,35.8
+2004,0,New York State,1,Male,8,Accidents (Total),2505,26.9
+2004,1,New York City,1,Male,8,Accidents (Total),679,17.6
+2004,2,Rest of State,1,Male,8,Accidents (Total),1826,33.5
+2005,0,New York State,1,Male,8,Accidents (Total),2746,29.4
+2005,1,New York City,1,Male,8,Accidents (Total),751,19.4
+2005,2,Rest of State,1,Male,8,Accidents (Total),1995,36.6
+2006,0,New York State,1,Male,8,Accidents (Total),2849,30.5
+2006,1,New York City,1,Male,8,Accidents (Total),766,19.6
+2006,2,Rest of State,1,Male,8,Accidents (Total),2083,38.3
+2007,0,New York State,1,Male,8,Accidents (Total),3205,34.2
+2007,1,New York City,1,Male,8,Accidents (Total),1112,28.2
+2007,2,Rest of State,1,Male,8,Accidents (Total),2093,38.7
+2008,0,New York State,1,Male,8,Accidents (Total),3255,34.4
+2008,1,New York City,1,Male,8,Accidents (Total),1059,26.5
+2008,2,Rest of State,1,Male,8,Accidents (Total),2196,40.2
+2009,0,New York State,1,Male,8,Accidents (Total),3063,32.2
+2009,1,New York City,1,Male,8,Accidents (Total),979,24.4
+2009,2,Rest of State,1,Male,8,Accidents (Total),2084,38
+2010,0,New York State,1,Male,8,Accidents (Total),3034,32.4
+2010,1,New York City,1,Male,8,Accidents (Total),933,24
+2010,2,Rest of State,1,Male,8,Accidents (Total),2101,38.2
+2011,0,New York State,1,Male,8,Accidents (Total),3345,35.5
+2011,1,New York City,1,Male,8,Accidents (Total),1033,26.3
+2011,2,Rest of State,1,Male,8,Accidents (Total),2312,42
+2012,0,New York State,1,Male,8,Accidents (Total),3559,37.5
+2012,1,New York City,1,Male,8,Accidents (Total),1119,28.2
+2012,2,Rest of State,1,Male,8,Accidents (Total),2440,44.2
+2013,0,New York State,1,Male,8,Accidents (Total),3556,37.3
+2013,1,New York City,1,Male,8,Accidents (Total),1112,27.7
+2013,2,Rest of State,1,Male,8,Accidents (Total),2444,44.2
+2003,0,New York State,2,Female,8,Accidents (Total),1523,15.4
+2003,1,New York City,2,Female,8,Accidents (Total),462,10.9
+2003,2,Rest of State,2,Female,8,Accidents (Total),1061,18.7
+2004,0,New York State,2,Female,8,Accidents (Total),1421,14.3
+2004,1,New York City,2,Female,8,Accidents (Total),399,9.4
+2004,2,Rest of State,2,Female,8,Accidents (Total),1022,18
+2005,0,New York State,2,Female,8,Accidents (Total),1599,16.1
+2005,1,New York City,2,Female,8,Accidents (Total),476,11.2
+2005,2,Rest of State,2,Female,8,Accidents (Total),1123,19.8
+2006,0,New York State,2,Female,8,Accidents (Total),1582,15.9
+2006,1,New York City,2,Female,8,Accidents (Total),461,10.7
+2006,2,Rest of State,2,Female,8,Accidents (Total),1121,19.8
+2007,0,New York State,2,Female,8,Accidents (Total),1700,17.1
+2007,1,New York City,2,Female,8,Accidents (Total),546,12.6
+2007,2,Rest of State,2,Female,8,Accidents (Total),1154,20.6
+2008,0,New York State,2,Female,8,Accidents (Total),1733,17.3
+2008,1,New York City,2,Female,8,Accidents (Total),528,12.1
+2008,2,Rest of State,2,Female,8,Accidents (Total),1205,21.3
+2009,0,New York State,2,Female,8,Accidents (Total),1691,16.8
+2009,1,New York City,2,Female,8,Accidents (Total),514,11.7
+2009,2,Rest of State,2,Female,8,Accidents (Total),1177,20.8
+2010,0,New York State,2,Female,8,Accidents (Total),1686,16.9
+2010,1,New York City,2,Female,8,Accidents (Total),465,10.8
+2010,2,Rest of State,2,Female,8,Accidents (Total),1221,21.4
+2011,0,New York State,2,Female,8,Accidents (Total),1904,19
+2011,1,New York City,2,Female,8,Accidents (Total),533,12.3
+2011,2,Rest of State,2,Female,8,Accidents (Total),1371,24
+2012,0,New York State,2,Female,8,Accidents (Total),1895,18.8
+2012,1,New York City,2,Female,8,Accidents (Total),494,11.3
+2012,2,Rest of State,2,Female,8,Accidents (Total),1401,24.5
+2013,0,New York State,2,Female,8,Accidents (Total),1997,19.7
+2013,1,New York City,2,Female,8,Accidents (Total),524,11.9
+2013,2,Rest of State,2,Female,8,Accidents (Total),1473,25.8

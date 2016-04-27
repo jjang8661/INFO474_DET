@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Data Exploration Tool</title>
+		<link rel="shortcut icon" type="image/png" href="res/icon.png">
+
+		<!-- Libraries -->
+		<script src="https://code.jquery.com/jquery.min.js"></script>
+		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+		<script src="http://d3js.org/d3.v3.min.js"></script>
+
+		<!-- Custom files -->
+		<link rel="stylesheet" href="css/main.css"/>
+
+		<!--  Main script file and D3 tooltip script file -->
+		<script src="js/main.js"></script>
+		<script src="js/index.js"></script>
+
+	</head>
+	<body class="container">
+		<header>
+			<h1>Leading Causes of Death <br>in New York State</h1>
+		</header>
+
+		<div id="content">
+			<!-- Slide bar for years -->
+			<input type="range" name="option" class="years" id="years" min="2003" max="2013" step="1" onchange="showValue(this.value)">
+			<span id="showYear">In 2008</span>
+
+			<!-- Buttons for regions -->
+			<div class="btn-group" data-toggle="buttons">
+			  <label class="btn btn-primary">
+			    <input value = "New York City" type="radio" name="options" id="option1" autocomplete="off">New York City
+			  </label>
+			  <label class="btn btn-primary">
+			    <input value = "Rest of State" type="radio" name="options" id="option2" autocomplete="off" checked>Rest of State
+			  </label>
+			  <label class="btn btn-primary active">
+		    	<input value = "New York State" type="radio" name="options" id="option3" autocomplete="off" checked>New York State
+			  </label>
+			</div>
+
+			<div id="vis"></div>
+		</div> <!-- Close content div -->
+	</body>
+</html>
